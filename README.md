@@ -67,5 +67,54 @@ More details about the code are being exlpained as comments inside the files *[v
 
 For a full presentation of the working project watch the [video](https://www.youtube.com/watch?v=XUWEyNa0Bcw) in Youtube.
 
-## Author
-* **Konstantinos Thanos**
+# Virtual Sketching using OpenCV
+
+Virtual Sketching using OpenCV is a project that enables users to create digital sketches in real-time using a webcam. By applying computer vision techniques through the OpenCV library, this project converts the live video feed into a simplified black-and-white sketch, simulating the act of drawing with a pencil on paper.
+
+## Features
+
+- Real-time webcam feed conversion to sketch.
+- Customizable sketch intensity and contrast settings.
+- Instant visual feedback for a responsive experience.
+- User-friendly interface with easy-to-use controls.
+
+## How to Run
+
+1. Clone this repository to your local machine:
+
+2. Make sure you have Python and the required dependencies installed. You can install the dependencies using:
+
+3. Open a terminal and navigate to the project folder.
+
+4. Run the `virtual_sketching.py` script:
+
+5. A window will open showing the live webcam feed alongside the corresponding sketch.
+
+6. Use the provided controls to adjust the sketch intensity and contrast in real-time.
+
+## Examples
+
+![Virtual Sketching Example](/examples/virtual_sketching_example.png)
+
+## Contributing
+
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please open an issue. If you'd like to contribute code, follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature/bugfix:
+
+3. Commit your changes:
+
+4. Push to your forked repository:
+
+5. Create a pull request on the original repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
+
+## Contact
+
+For questions or inquiries, please contact [Your Name](mailto:youremail@example.com) or visit [Your GitHub Profile](https://github.com/yourusername).
+
